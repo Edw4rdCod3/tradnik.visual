@@ -1097,7 +1097,7 @@ footer
     flex-direction: column;
     overflow: hidden;
     overflow-y: hidden;
-    height: 100vh;
+    height: auto;
     padding-bottom: 300px;
     padding-top: 100px;
     justify-content:center ;
